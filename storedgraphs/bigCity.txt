@@ -1,0 +1,19 @@
+3
+u
+bella amina 5000
+bella gege 6000
+
+amina alaa 1234154460852
+amina gege 1000000
+amina bella 5000
+
+alaa amina 1234154460852
+alaa gege 40000000
+alaa hehe 2000000
+
+hehe alaa 2000000
+
+gege alaa 40000000
+gege amina 1000000
+gege bella 6000
+

@@ -1,0 +1,3 @@
+﻿  Files.cpp
+E:\projects\data-structure\DataStructure\Files.cpp(158): warning C4715: 'Files::readGraphFromFile': not all control paths return a value
+  DataStructure.vcxproj -> E:\projects\data-structure\Debug\DataStructure.exe
