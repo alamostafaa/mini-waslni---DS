@@ -8,8 +8,5 @@ the whole point of the project is to **store the graph** and to **fined the shor
   - stack  `stack<string>` to *store the way from the current city to the disered distenation*
 
 ## Algorithms
-
-<ul> 
-  <li>Dijkstra</li>
-  <li>spfa<li>
-</ul>
+  - Dijkstra</li>
+  - spfa<li>
